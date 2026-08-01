@@ -4,13 +4,9 @@
 
 **Restaurant Analytics Dashboard**
 
----
-
 ## 📝 Short Description
 
 The Restaurant Analytics Dashboard is an interactive business intelligence project that helps restaurant owners monitor sales, customer behavior, and operational performance. It provides visual insights into revenue, popular menu items, customer preferences, order trends, and payment methods, enabling data-driven decision-making to improve profitability and customer satisfaction.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -19,8 +15,6 @@ The Restaurant Analytics Dashboard is an interactive business intelligence proje
 - 🗄️ SQL (Optional)
 - 📈 DAX (Data Analysis Expressions)
 - 🔄 Power Query
-
----
 
 ## 📂 Data Source
 
@@ -37,8 +31,6 @@ The dashboard uses a restaurant sales dataset (CSV/Excel) containing:
 - Payment Method
 - Restaurant Branch (if applicable)
 
----
-
 ## ✨ Features
 
 - 📈 Total Sales Overview
@@ -52,13 +44,9 @@ The dashboard uses a restaurant sales dataset (CSV/Excel) containing:
 - 📍 Branch Performance Analysis
 - 🔍 Interactive Filters and Slicers
 
----
-
 ## 📌 Business Problem
 
 Restaurant owners often struggle to identify sales trends, customer preferences, and menu performance. Without proper data analysis, it becomes difficult to optimize inventory, improve customer satisfaction, and increase overall profitability.
-
----
 
 ## ❓ Key Questions
 
@@ -70,8 +58,6 @@ Restaurant owners often struggle to identify sales trends, customer preferences,
 - Which branch performs the best?
 - What is the average order value?
 - Which menu items generate the least revenue?
-
----
 
 ## 📈 Business Impact & Insights
 
@@ -92,11 +78,9 @@ Restaurant owners often struggle to identify sales trends, customer preferences,
 - Beverage sales increase during evening hours.
 - Certain menu items have consistently low sales and may require promotional offers or menu updates.
 
----
-
 ## 📷 Dashboard Screenshots
 
-
+https://github.com/RyeonaSherin/Restaurant_Dashoard/blob/main/Restaurant_Report.png
 
 ## 👨‍💻 Author
 
