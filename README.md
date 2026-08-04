@@ -6,7 +6,7 @@
 
 ## 📝 Short Description
 
-The Restaurant Analytics Dashboard is an interactive business intelligence project that helps restaurant owners monitor sales, customer behavior, and operational performance. It provides visual insights into revenue, popular menu items, customer preferences, order trends, and payment methods, enabling data-driven decision-making to improve profitability and customer satisfaction.
+The Restaurant Analytics Dashboard is an interactive business intelligence project that helps restaurant owners monitor sales, customer behavior, and operational performance. It provides visual insights into revenue, popular menu items, customer preferences, order trends, and payment methods, enabling data-driven decision-making to improve profitability and customer satisfaction..
 
 ## 🛠️ Tech Stack
 
